@@ -1,0 +1,14 @@
+body {
+  background: url("welcome.jpg") no-repeat center center fixed;
+  width: 800px;
+  height: 600px;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+a {
+  font-size: 0.6em;
+}
